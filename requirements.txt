@@ -46,17 +46,3 @@ pickleshare==0.7.5
 Pillow==8.1.2
 smmap==3.0.5
 streamlit==0.78.0
-terminado==0.9.1
-testpath==0.4.4
-toml==0.10.2
-toolz==0.11.1
-tornado==6.0.4
-traitlets==5.0.4
-tzlocal==2.1
-urllib3==1.26.4
-validators==0.18.2
-watchdog==2.0.2
-wcwidth==0.2.5
-webencodings==0.5.1
-widgetsnbextension==3.5.1
-wincertstore==0.2
